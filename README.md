@@ -12,7 +12,7 @@ import simple.robot.script.Script;
 
 @ScriptManifest(author = "", category = null, description = "", discord = "", name = "", servers = { "" }, version = "")
 
-public class empty extends Script {
+public class Woodcutter extends Script {
 
 	@Override
 	public void paint(Graphics arg0) {
@@ -46,3 +46,4 @@ public class empty extends Script {
 
 }
 ```
+![Pyramid](https://i.imgur.com/esmlxJt.png)
